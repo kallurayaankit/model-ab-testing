@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+mlflow
+scikit-learn
+pandas
+redis
+prometheus-client
+requests
+python-dotenv
